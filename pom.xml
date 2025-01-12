@@ -16,8 +16,6 @@
 		<repository>
 				<id>nexus</id>
 				<url>http://84.201.149.169:8081/repository/maven-releases/</url>
-				<username>admin</username>
-      				<password>admin123</password>
 		</repository>
 	</distributionManagement>
 	<dependencies>
